@@ -20,7 +20,7 @@ title                    : "Manyeo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "마녀🌙"
-description              : "마녀 개발자의 초보 탈출기💎"
+description              : "💎마녀 개발자의 초보 탈출기"
 url                      : "https://manyeo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "마녀🌙"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "마녀 개발자의 초보 탈출기💎"
+  bio              : "💎마녀 개발자의 초보 탈출기"
   location         : "South Korea"
   email            :
   links:
